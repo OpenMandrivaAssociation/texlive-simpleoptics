@@ -1,6 +1,6 @@
 Name:		texlive-simpleoptics
 Version:	62977
-Release:	1
+Release:	2
 Summary:	Drawing lenses and mirrors for optical diagrams
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/simpleoptics
